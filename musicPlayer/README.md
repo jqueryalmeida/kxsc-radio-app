@@ -3,7 +3,9 @@ In order to run this project, you'll need to download the react-native-audio-str
 To clone the project: 
 $ git clone git@github.com:melissajwen/kxscapp.git
 
+
 To download the module on iOS, execute the following command in terminal:
+
 $ cd musicPlayer
 
 $ npm install react-native-audio-streaming --save
