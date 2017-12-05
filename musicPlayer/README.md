@@ -1,8 +1,8 @@
 In order to run this project, you'll need to download the react-native-audio-streaming module to your node_modules folder.
 
 To clone the project: 
-$ git clone git@github.com:melissajwen/kxscapp.git
 
+$ git clone git@github.com:melissajwen/kxscapp.git
 
 To download the module on iOS, execute the following command in terminal:
 
