@@ -5,7 +5,9 @@ $ git clone git@github.com:melissajwen/kxscapp.git
 
 To download the module on iOS, execute the following command in terminal:
 $ cd musicPlayer
+
 $ npm install react-native-audio-streaming --save
+
 $ pod install
 
 Then open up ios/musicPlayer.xcodeproj in Xcode
